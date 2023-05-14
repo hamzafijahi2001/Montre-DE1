@@ -32,7 +32,7 @@ To get started with the MONTRE-DE1 project, follow the instructions below.
 - NIOS II: Set up the NIOS II development environment by referring to the documentation provided by Intel FPGA.
 
 ### Installation
-1. Clone this repository: `git clone https://github.com/your-username/montre-de1.git`
+1. Clone this repository: `git clone https://github.com/hamzafijahi2001/montre-de1.git`
 2. Open Quartus II and create a new project.
 3. Import the project files from the cloned repository into your Quartus II project.
 4. Set up the NIOS II processor in your project configuration.
