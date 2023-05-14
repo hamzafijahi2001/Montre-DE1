@@ -1,0 +1,103 @@
+!SESSION 2023-05-14 00:29:22.633 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.554
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.debug.cdi.gdb.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.555
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.embeddedsw.app_lib.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.556
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.embeddedsw.bsp.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.557
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.embeddedsw.commandline.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.558
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.embeddedsw.flash.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.559
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.embeddedsw.launch.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.559
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.nios2.isa_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.560
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.sbtgui.core_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.561
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.sbtgui.flash.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.562
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.sbtgui.gprof_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.562
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.sbtgui.integration_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.563
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.sbtgui.integration.jars_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.564
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.sbtgui.launch_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.565
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.sbtgui.project_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.565
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.sbtgui.ui_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.566
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.service.eclipse_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.567
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.service.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.568
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.systemconsole_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.569
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.systemconsole.designs.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.570
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.systemconsole.gui.plugin_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.571
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.systemconsole.plugin.elf_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.571
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.systemconsole.plugin.jtag_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.572
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.systemconsole.scripting_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2023-05-14 00:29:23.573
+!MESSAGE Bundle reference:file:/D:/altera/altera/13.0sp1/nios2eds/bin/eclipse_nios2/dropins/com.altera.sbtgui.site/plugins/com.altera.utilities_13.0.1.232.jar@4 not found.
+
+!ENTRY org.eclipse.equinox.p2.reconciler.dropins 4 0 2023-05-14 00:29:25.748
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: The bundle "org.eclipse.equinox.p2.reconciler.dropins_1.1.100.v20110815-1419 [152]" could not be resolved. Reason: Missing Constraint: Require-Bundle: org.eclipse.equinox.p2.touchpoint.eclipse; bundle-version="1.0.0"
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getResolverError(AbstractBundle.java:1327)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getResolutionFailureException(AbstractBundle.java:1311)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:323)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.resume(AbstractBundle.java:389)
+	at org.eclipse.osgi.framework.internal.core.Framework.resumeBundle(Framework.java:1131)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.resumeBundles(StartLevelManager.java:559)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.resumeBundles(StartLevelManager.java:544)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.incFWSL(StartLevelManager.java:457)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:243)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.dispatchEvent(StartLevelManager.java:438)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.dispatchEvent(StartLevelManager.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-14 00:32:28.933
+!MESSAGE Indexed 'Montre_DE1_bsp' (77 sources, 58 headers) in 1.85 sec: 837 declarations; 1,837 references; 100 unresolved inclusions; 5 syntax errors; 192 unresolved names (6.70%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-14 00:32:34.542
+!MESSAGE Indexed 'Montre_DE1' (1 sources, 13 headers) in 0.05 sec: 1 declarations; 1 references; 14 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)

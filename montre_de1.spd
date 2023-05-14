@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_irq_mapper.vho"
+   type="VHDL"
+   library="irq_mapper" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_width_adapter.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="width_adapter"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_address_alignment.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="width_adapter"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_burst_uncompressor.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="width_adapter"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_width_adapter.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="width_adapter"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_address_alignment.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="width_adapter"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_burst_uncompressor.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="width_adapter"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_rsp_xbar_mux_001.vho"
+   type="VHDL"
+   library="rsp_xbar_mux_001" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_rsp_xbar_mux.vho"
+   type="VHDL"
+   library="rsp_xbar_mux" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_rsp_xbar_demux_002.vho"
+   type="VHDL"
+   library="rsp_xbar_demux_002" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_cmd_xbar_mux.vho"
+   type="VHDL"
+   library="cmd_xbar_mux" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_cmd_xbar_demux_001.vho"
+   type="VHDL"
+   library="cmd_xbar_demux_001" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_cmd_xbar_demux.vho"
+   type="VHDL"
+   library="cmd_xbar_demux" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_reset_controller.v"
+   type="VERILOG_ENCRYPT"
+   library="rst_controller"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_reset_synchronizer.v"
+   type="VERILOG_ENCRYPT"
+   library="rst_controller"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_reset_controller.v"
+   type="VERILOG_ENCRYPT"
+   library="rst_controller"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_reset_synchronizer.v"
+   type="VERILOG_ENCRYPT"
+   library="rst_controller"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_burst_adapter.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="burst_adapter"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_address_alignment.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="burst_adapter"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_burst_adapter.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="burst_adapter"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_address_alignment.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="burst_adapter"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_id_router_002.vho"
+   type="VHDL"
+   library="id_router_002" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_id_router_001.vho"
+   type="VHDL"
+   library="id_router_001" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_id_router.vho"
+   type="VHDL"
+   library="id_router" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_addr_router_001.vho"
+   type="VHDL"
+   library="addr_router_001" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_addr_router.vho"
+   type="VHDL"
+   library="addr_router" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_SDRAM_s1_translator_avalon_universal_slave_0_agent_rdata_fifo.vho"
+   type="VHDL"
+   library="SDRAM_s1_translator_avalon_universal_slave_0_agent_rdata_fifo" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_SDRAM_s1_translator_avalon_universal_slave_0_agent_rsp_fifo.vho"
+   type="VHDL"
+   library="SDRAM_s1_translator_avalon_universal_slave_0_agent_rsp_fifo" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_jtag_debug_module_translator_avalon_universal_slave_0_agent_rsp_fifo.vho"
+   type="VHDL"
+   library="CPU_jtag_debug_module_translator_avalon_universal_slave_0_agent_rsp_fifo" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_slave_agent.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_jtag_debug_module_translator_avalon_universal_slave_0_agent"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_burst_uncompressor.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_jtag_debug_module_translator_avalon_universal_slave_0_agent"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_slave_agent.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_jtag_debug_module_translator_avalon_universal_slave_0_agent"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_burst_uncompressor.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_jtag_debug_module_translator_avalon_universal_slave_0_agent"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_master_agent.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_instruction_master_translator_avalon_universal_master_0_agent"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_master_agent.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_instruction_master_translator_avalon_universal_master_0_agent"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_slave_translator.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_jtag_debug_module_translator"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_slave_translator.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_jtag_debug_module_translator"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/mentor/altera_merlin_master_translator.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_instruction_master_translator"
+   simulator="modelsim" />
+ <file
+   path="montre_de1/simulation/submodules/aldec/altera_merlin_master_translator.sv"
+   type="SYSTEM_VERILOG_ENCRYPT"
+   library="CPU_instruction_master_translator"
+   simulator="riviera" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_HEX.vhd"
+   type="VHDL"
+   library="HEX" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_SW.vhd"
+   type="VHDL"
+   library="SW" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_LEDR.vhd"
+   type="VHDL"
+   library="LEDR" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_LEDG.vhd"
+   type="VHDL"
+   library="LEDG" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_sys_id.vho"
+   type="VHDL"
+   library="sys_id" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_TIMER.vhd"
+   type="VHDL"
+   library="TIMER" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_SDRAM.vhd"
+   type="VHDL"
+   library="SDRAM" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU.sdc"
+   type="SDC"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU.vhd"
+   type="VHDL"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_jtag_debug_module_sysclk.vhd"
+   type="VHDL"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_jtag_debug_module_tck.vhd"
+   type="VHDL"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_jtag_debug_module_wrapper.vhd"
+   type="VHDL"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_nios2_waves.do"
+   type="OTHER"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_ociram_default_contents.dat"
+   type="DAT"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_ociram_default_contents.hex"
+   type="HEX"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_ociram_default_contents.mif"
+   type="MIF"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_oci_test_bench.vhd"
+   type="VHDL"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_rf_ram_a.dat"
+   type="DAT"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_rf_ram_a.hex"
+   type="HEX"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_rf_ram_a.mif"
+   type="MIF"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_rf_ram_b.dat"
+   type="DAT"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_rf_ram_b.hex"
+   type="HEX"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_rf_ram_b.mif"
+   type="MIF"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_CPU_test_bench.vhd"
+   type="VHDL"
+   library="CPU" />
+ <file
+   path="montre_de1/simulation/submodules/montre_de1_PLL.vhd"
+   type="VHDL"
+   library="PLL" />
+ <file path="montre_de1/simulation/montre_de1.vhd" type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_cpu_jtag_debug_module_translator_avalon_universal_slave_0_agent.vhd"
+   type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_sdram_s1_translator_avalon_universal_slave_0_agent.vhd"
+   type="VHDL" />
+ <file path="montre_de1/simulation/montre_de1_width_adapter.vhd" type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_width_adapter_001.vhd"
+   type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_cpu_instruction_master_translator.vhd"
+   type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_cpu_data_master_translator.vhd"
+   type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_cpu_jtag_debug_module_translator.vhd"
+   type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_sdram_s1_translator.vhd"
+   type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_timer_s1_translator.vhd"
+   type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_sys_id_control_slave_translator.vhd"
+   type="VHDL" />
+ <file
+   path="montre_de1/simulation/montre_de1_ledg_avalon_parallel_port_slave_translator.vhd"
+   type="VHDL" />
+ <topLevel name="montre_de1" />
+ <deviceFamily name="cycloneii" />
+</simPackage>
